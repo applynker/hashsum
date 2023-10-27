@@ -1,0 +1,2 @@
+# hashsum
+command hash cli
